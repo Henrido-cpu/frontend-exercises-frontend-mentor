@@ -18,7 +18,7 @@ Solution and the display of basic html and css knowledge for this challenge.
 
 ### Screenshot
 
-![Screenshot](/home/henrido/repos/frontend-exercises-frontend-mentor/qr-code-component-main/images/Screenshot from 2025-08-17 18-02-46.png)
+/home/henrido/repos/frontend-exercises-frontend-mentor/qr-code-component-main/images/Screenshot from 2025-08-17 18-02-46.png
 
 ## My process
 
