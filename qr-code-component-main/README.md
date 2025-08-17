@@ -18,7 +18,11 @@ Solution and the display of basic html and css knowledge for this challenge.
 
 ### Screenshot
 
+<<<<<<< HEAD
 ![Image](/images/Screenshot%20from%202025-08-17%2018-02-46.png)
+=======
+/home/henrido/repos/frontend-exercises-frontend-mentor/qr-code-component-main/images/Screenshot from 2025-08-17 18-02-46.png
+>>>>>>> e4c718f2ac1523e5a4e9410ef98dea34252995ab
 
 ## My process
 
